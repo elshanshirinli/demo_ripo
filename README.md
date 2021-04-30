@@ -8,3 +8,10 @@ Some text
 
 
 Warch totrial on Youtube.
+
+
+
+## Local Development
+
+
+Open index.htmk in your browser.
